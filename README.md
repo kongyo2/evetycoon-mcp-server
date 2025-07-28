@@ -2,6 +2,8 @@
 
 [![smithery badge](https://smithery.ai/badge/@kongyo2/evetycoon-mcp-server)](https://smithery.ai/server/@kongyo2/evetycoon-mcp-server)
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/kongyo2/evetycoon-mcp-server)
+
 A Model Context Protocol (MCP) server that provides access to the EVE Tycoon API for EVE Online market data.
 
 ## Overview
