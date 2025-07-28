@@ -1,5 +1,7 @@
 # EVE Tycoon MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@kongyo2/evetycoon-mcp-server)](https://smithery.ai/server/@kongyo2/evetycoon-mcp-server)
+
 A Model Context Protocol (MCP) server that provides access to the EVE Tycoon API for EVE Online market data.
 
 ## Overview
@@ -28,6 +30,15 @@ This MCP server allows you to interact with the EVE Tycoon API to retrieve marke
 
 ## Installation
 
+### Installing via Smithery
+
+To install evetycoon-mcp-server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@kongyo2/evetycoon-mcp-server):
+
+```bash
+npx -y @smithery/cli install @kongyo2/evetycoon-mcp-server --client claude
+```
+
+### Manual Installation
 1. Clone this repository
 2. Install dependencies:
    ```bash
@@ -125,4 +136,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Disclaimer
 
 This is an unofficial tool and is not affiliated with CCP Games or EVE Online. EVE Online is a trademark of CCP hf.
-
