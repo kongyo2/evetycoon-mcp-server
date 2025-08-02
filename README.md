@@ -4,6 +4,12 @@
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/kongyo2/evetycoon-mcp-server)
 
+
+<a href="https://glama.ai/mcp/servers/@kongyo2/evetycoon-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kongyo2/evetycoon-mcp-server/badge" alt="EVE Tycoon MCP Server" />
+</a>
+
+
 A Model Context Protocol (MCP) server that provides access to the EVE Tycoon API for EVE Online market data.
 
 ## Overview
